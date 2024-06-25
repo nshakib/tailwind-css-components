@@ -17,3 +17,19 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
   });
+
+  // Dropdown
+  // // JavaScript to toggle dropdown visibility
+  // const dropdownToggle = document.getElementById('dropdown-toggle');
+  //   const dropdownMenu = document.getElementById('dropdown-menu');
+
+  //   dropdownToggle.addEventListener('click', function() {
+  //     dropdownMenu.classList.toggle('hidden');
+  //   });
+
+  //   // Close dropdown when clicking outside
+  //   document.addEventListener('click', function(event) {
+  //     if (!dropdownToggle.contains(event.target) && !dropdownMenu.contains(event.target)) {
+  //       dropdownMenu.classList.add('hidden');
+  //     }
+  //   });
